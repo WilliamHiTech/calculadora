@@ -19,7 +19,7 @@ public class Calculadora {
             System.out.println("Resultado " + calcular(num1, num2, operacao));
 
 
-            System.out.println("Deseja realizar outra operaçao?");
+            System.out.println("Deseja realizar outra operaçao SIM OU NÃO ?");
             opcao = teclado.next();
 
         }
